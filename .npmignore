@@ -1,0 +1,15 @@
+app
+tests
+.DS_Store
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+node_modules
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitignore
+.babelrc
